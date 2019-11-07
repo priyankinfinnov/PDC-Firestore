@@ -1,12 +1,10 @@
 ﻿# PDC-Firestore
 
-I spoke at a meetup on Firestore 🔥 hosted by Pune Developer Community.
+I spoke at a meetup on Firestore 🔥 hosted by Pune Developer Community. This is the code repo i used to demo basic of Firestore using NodeJs.
 
 Pune Developer Community - https://www.meetup.com/Pune-Developers-Community/
 
 Link to the meetup - https://www.meetup.com/Pune-Developers-Community/events/265716399/
-
-This is the code repo i used to demo basic of Firestore using NodeJs.
 
 # Using
 1. Install nodejs.
