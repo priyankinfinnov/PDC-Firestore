@@ -6,6 +6,8 @@ Pune Developer Community - https://www.meetup.com/Pune-Developers-Community/
 
 Link to the meetup - https://www.meetup.com/Pune-Developers-Community/events/265716399/
 
+Link to the Slides - https://docs.google.com/presentation/d/16_HVpBXxsP2J4kcPmOHpeAk43J63ZWnhaA5gLOQVSQc/edit?usp=sharing 
+
 # Using
 1. Install nodejs.
 2. Follow https://firebase.google.com/docs/firestore/quickstart to setup a project.
